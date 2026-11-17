@@ -1,0 +1,65 @@
+{
+  "name": "killbyte-next",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "build": "prisma generate && next build",
+    "start": "NODE_ENV=production node server.mjs",
+    "worker": "NODE_ENV=production node worker.mjs",
+    "lint": "eslint .",
+    "check": "tsc --noEmit",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "prisma:validate": "prisma validate",
+    "prisma:generate": "prisma generate",
+    "prisma:migrate": "prisma migrate deploy",
+    "prisma:dev": "prisma migrate dev",
+    "db:seed": "tsx prisma/seed.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.19.3",
+    "bcryptjs": "^3.0.3",
+    "cron-parser": "^5.10.6",
+    "framer-motion": "^14.14.0",
+    "ioredis": "^6.0.0",
+    "jose": "^6.2.17",
+    "lucide-react": "^1.74.0",
+    "next": "16.4.6",
+    "next-intl": "^4.15.1",
+    "nodemailer": "^10.6.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "recharts": "^3.11.0",
+    "sanitize-html": "^2.18.2",
+    "sonner": "^2.0.8",
+    "ws": "^8.23.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@tailwindcss/turbopack": "4.3.3",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/node": "^20",
+    "@types/nodemailer": "^8.0.2",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/sanitize-html": "^2.16.2",
+    "@types/ws": "^8.18.2",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.6",
+    "playwright": "^1.65.1",
+    "prisma": "^6.19.3",
+    "tailwindcss": "4.3.3",
+    "tsx": "^4.23.15",
+    "typescript": "^5",
+    "vitest": "^4.1.12"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "overrides": {
+    "deepmerge-ts": "8.0.2"
+  }
+}
