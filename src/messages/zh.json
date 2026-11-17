@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "dashboard": "仪表盘",
+    "hub": "中心",
+    "chat": "社区",
+    "rewards": "奖励",
+    "wallet": "钱包",
+    "pricing": "会员",
+    "referrals": "推荐",
+    "tickets": "支持",
+    "profile": "个人资料",
+    "admin": "管理",
+    "login": "登录",
+    "register": "创建账户"
+  },
+  "auth": {
+    "loginTitle": "欢迎回来。",
+    "loginBody": "使用 KillByte 凭据进入安全工作区。",
+    "registerTitle": "创建您的身份。",
+    "password": "密码",
+    "identifier": "邮箱或用户名",
+    "login": "安全登录",
+    "register": "创建安全账户"
+  },
+  "dashboard": {
+    "title": "很高兴见到您，{name}。"
+  },
+  "common": {
+    "save": "Save changes"
+  }
+}

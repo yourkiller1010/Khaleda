@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "hub": "Hub",
+    "chat": "Community",
+    "rewards": "Beloningen",
+    "wallet": "Wallet",
+    "pricing": "Lidmaatschap",
+    "referrals": "Verwijzingen",
+    "tickets": "Support",
+    "profile": "Profiel",
+    "admin": "Beheer",
+    "login": "Inloggen",
+    "register": "Account maken"
+  },
+  "auth": {
+    "loginTitle": "Welkom terug.",
+    "loginBody": "Gebruik je KillByte-gegevens om de beveiligde werkruimte te openen.",
+    "registerTitle": "Maak je identiteit.",
+    "password": "Wachtwoord",
+    "identifier": "E-mail of gebruikersnaam",
+    "login": "Veilig inloggen",
+    "register": "Veilig account maken"
+  },
+  "dashboard": {
+    "title": "Goed je te zien, {name}."
+  },
+  "common": {
+    "save": "Save changes"
+  }
+}

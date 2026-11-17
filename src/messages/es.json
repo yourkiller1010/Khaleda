@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "dashboard": "Panel",
+    "hub": "Centro",
+    "chat": "Comunidad",
+    "rewards": "Recompensas",
+    "wallet": "Billetera",
+    "pricing": "Membresía",
+    "referrals": "Referidos",
+    "tickets": "Soporte",
+    "profile": "Perfil",
+    "admin": "Administración",
+    "login": "Iniciar sesión",
+    "register": "Crear cuenta"
+  },
+  "auth": {
+    "loginTitle": "Bienvenido de nuevo.",
+    "loginBody": "Usa tus credenciales para entrar al espacio seguro.",
+    "registerTitle": "Crea tu identidad.",
+    "password": "Contraseña",
+    "identifier": "Correo o usuario",
+    "login": "Iniciar sesión de forma segura",
+    "register": "Crear cuenta segura"
+  },
+  "dashboard": {
+    "title": "Qué bueno verte, {name}."
+  },
+  "common": {
+    "save": "Save changes"
+  }
+}

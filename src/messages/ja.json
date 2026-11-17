@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "dashboard": "ダッシュボード",
+    "hub": "ハブ",
+    "chat": "コミュニティ",
+    "rewards": "特典",
+    "wallet": "ウォレット",
+    "pricing": "メンバーシップ",
+    "referrals": "紹介",
+    "tickets": "サポート",
+    "profile": "プロフィール",
+    "admin": "管理",
+    "login": "サインイン",
+    "register": "アカウント作成"
+  },
+  "auth": {
+    "loginTitle": "おかえりなさい。",
+    "loginBody": "KillByte の認証情報で安全なワークスペースに入ります。",
+    "registerTitle": "アイデンティティを作成。",
+    "password": "パスワード",
+    "identifier": "メールまたはユーザー名",
+    "login": "安全にサインイン",
+    "register": "安全なアカウントを作成"
+  },
+  "dashboard": {
+    "title": "ようこそ、{name}さん。"
+  },
+  "common": {
+    "save": "Save changes"
+  }
+}

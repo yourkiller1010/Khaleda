@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "dashboard": "Übersicht",
+    "hub": "Hub",
+    "chat": "Community",
+    "rewards": "Prämien",
+    "wallet": "Wallet",
+    "pricing": "Mitgliedschaft",
+    "referrals": "Empfehlungen",
+    "tickets": "Support",
+    "profile": "Profil",
+    "admin": "Administration",
+    "login": "Anmelden",
+    "register": "Konto erstellen"
+  },
+  "auth": {
+    "loginTitle": "Willkommen zurück.",
+    "loginBody": "Melden Sie sich mit Ihren Zugangsdaten am sicheren Arbeitsbereich an.",
+    "registerTitle": "Erstellen Sie Ihre Identität.",
+    "password": "Passwort",
+    "identifier": "E-Mail oder Benutzername",
+    "login": "Sicher anmelden",
+    "register": "Sicheres Konto erstellen"
+  },
+  "dashboard": {
+    "title": "Schön, Sie zu sehen, {name}."
+  },
+  "common": {
+    "save": "Save changes"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "dashboard": "Panel",
+    "hub": "Centrum",
+    "chat": "Społeczność",
+    "rewards": "Nagrody",
+    "wallet": "Portfel",
+    "pricing": "Członkostwo",
+    "referrals": "Polecenia",
+    "tickets": "Pomoc",
+    "profile": "Profil",
+    "admin": "Administracja",
+    "login": "Zaloguj się",
+    "register": "Utwórz konto"
+  },
+  "auth": {
+    "loginTitle": "Witaj ponownie.",
+    "loginBody": "Użyj danych KillByte, aby wejść do bezpiecznego obszaru roboczego.",
+    "registerTitle": "Utwórz swoją tożsamość.",
+    "password": "Hasło",
+    "identifier": "E-mail lub nazwa użytkownika",
+    "login": "Zaloguj bezpiecznie",
+    "register": "Utwórz bezpieczne konto"
+  },
+  "dashboard": {
+    "title": "Dobrze Cię widzieć, {name}."
+  },
+  "common": {
+    "save": "Save changes"
+  }
+}

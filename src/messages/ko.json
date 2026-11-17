@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "dashboard": "대시보드",
+    "hub": "허브",
+    "chat": "커뮤니티",
+    "rewards": "리워드",
+    "wallet": "지갑",
+    "pricing": "멤버십",
+    "referrals": "추천",
+    "tickets": "지원",
+    "profile": "프로필",
+    "admin": "관리",
+    "login": "로그인",
+    "register": "계정 만들기"
+  },
+  "auth": {
+    "loginTitle": "다시 오신 것을 환영합니다.",
+    "loginBody": "KillByte 자격 증명으로 안전한 작업 공간에 들어가세요.",
+    "registerTitle": "계정 identity를 만드세요.",
+    "password": "비밀번호",
+    "identifier": "이메일 또는 사용자 이름",
+    "login": "안전하게 로그인",
+    "register": "안전한 계정 만들기"
+  },
+  "dashboard": {
+    "title": "반갑습니다, {name}님."
+  },
+  "common": {
+    "save": "Save changes"
+  }
+}

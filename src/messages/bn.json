@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "dashboard": "ড্যাশবোর্ড",
+    "hub": "হাব",
+    "chat": "কমিউনিটি",
+    "rewards": "পুরস্কার",
+    "wallet": "ওয়ালেট",
+    "pricing": "মেম্বারশিপ",
+    "referrals": "রেফারেল",
+    "tickets": "সহায়তা",
+    "profile": "প্রোফাইল",
+    "admin": "প্রশাসন",
+    "login": "সাইন ইন",
+    "register": "অ্যাকাউন্ট তৈরি করুন"
+  },
+  "auth": {
+    "loginTitle": "আবার স্বাগতম।",
+    "loginBody": "আপনার KillByte অ্যাকাউন্টে প্রবেশ করুন।",
+    "registerTitle": "আপনার পরিচয় তৈরি করুন।",
+    "password": "পাসওয়ার্ড",
+    "identifier": "ইমেইল বা ব্যবহারকারীর নাম",
+    "login": "নিরাপদে সাইন ইন করুন",
+    "register": "নিরাপদ অ্যাকাউন্ট তৈরি করুন"
+  },
+  "dashboard": {
+    "title": "আবার দেখা হয়েছে, {name}।"
+  },
+  "common": {
+    "save": "Save changes"
+  }
+}

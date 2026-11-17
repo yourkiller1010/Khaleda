@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "dashboard": "Painel",
+    "hub": "Hub",
+    "chat": "Comunidade",
+    "rewards": "Recompensas",
+    "wallet": "Carteira",
+    "pricing": "Assinatura",
+    "referrals": "Indicações",
+    "tickets": "Suporte",
+    "profile": "Perfil",
+    "admin": "Administração",
+    "login": "Entrar",
+    "register": "Criar conta"
+  },
+  "auth": {
+    "loginTitle": "Bem-vindo de volta.",
+    "loginBody": "Use suas credenciais para entrar no espaço seguro.",
+    "registerTitle": "Crie sua identidade.",
+    "password": "Senha",
+    "identifier": "E-mail ou usuário",
+    "login": "Entrar com segurança",
+    "register": "Criar conta segura"
+  },
+  "dashboard": {
+    "title": "É bom ver você, {name}."
+  },
+  "common": {
+    "save": "Save changes"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "dashboard": "Panel",
+    "hub": "Merkez",
+    "chat": "Topluluk",
+    "rewards": "Ödüller",
+    "wallet": "Cüzdan",
+    "pricing": "Üyelik",
+    "referrals": "Yönlendirmeler",
+    "tickets": "Destek",
+    "profile": "Profil",
+    "admin": "Yönetim",
+    "login": "Giriş yap",
+    "register": "Hesap oluştur"
+  },
+  "auth": {
+    "loginTitle": "Tekrar hoş geldiniz.",
+    "loginBody": "Güvenli çalışma alanına hesap bilgilerinizle giriş yapın.",
+    "registerTitle": "Kimliğinizi oluşturun.",
+    "password": "Şifre",
+    "identifier": "E-posta veya kullanıcı adı",
+    "login": "Güvenli giriş",
+    "register": "Güvenli hesap oluştur"
+  },
+  "dashboard": {
+    "title": "Sizi görmek güzel, {name}."
+  },
+  "common": {
+    "save": "Save changes"
+  }
+}

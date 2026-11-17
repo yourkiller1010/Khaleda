@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "hub": "Hub",
+    "chat": "Comunità",
+    "rewards": "Premi",
+    "wallet": "Portafoglio",
+    "pricing": "Abbonamento",
+    "referrals": "Referral",
+    "tickets": "Supporto",
+    "profile": "Profilo",
+    "admin": "Amministrazione",
+    "login": "Accedi",
+    "register": "Crea account"
+  },
+  "auth": {
+    "loginTitle": "Bentornato.",
+    "loginBody": "Usa le credenziali KillByte per entrare nello spazio di lavoro sicuro.",
+    "registerTitle": "Crea la tua identità.",
+    "password": "Password",
+    "identifier": "Email o nome utente",
+    "login": "Accedi in sicurezza",
+    "register": "Crea account sicuro"
+  },
+  "dashboard": {
+    "title": "È un piacere vederti, {name}."
+  },
+  "common": {
+    "save": "Save changes"
+  }
+}

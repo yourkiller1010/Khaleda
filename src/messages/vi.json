@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "dashboard": "Bảng điều khiển",
+    "hub": "Trung tâm",
+    "chat": "Cộng đồng",
+    "rewards": "Phần thưởng",
+    "wallet": "Ví",
+    "pricing": "Thành viên",
+    "referrals": "Giới thiệu",
+    "tickets": "Hỗ trợ",
+    "profile": "Hồ sơ",
+    "admin": "Quản trị",
+    "login": "Đăng nhập",
+    "register": "Tạo tài khoản"
+  },
+  "auth": {
+    "loginTitle": "Chào mừng trở lại.",
+    "loginBody": "Dùng thông tin KillByte để vào không gian làm việc an toàn.",
+    "registerTitle": "Tạo danh tính của bạn.",
+    "password": "Mật khẩu",
+    "identifier": "Email hoặc tên người dùng",
+    "login": "Đăng nhập an toàn",
+    "register": "Tạo tài khoản an toàn"
+  },
+  "dashboard": {
+    "title": "Rất vui được gặp bạn, {name}."
+  },
+  "common": {
+    "save": "Save changes"
+  }
+}

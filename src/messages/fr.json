@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "hub": "Hub",
+    "chat": "Communauté",
+    "rewards": "Récompenses",
+    "wallet": "Portefeuille",
+    "pricing": "Adhésion",
+    "referrals": "Parrainages",
+    "tickets": "Assistance",
+    "profile": "Profil",
+    "admin": "Administration",
+    "login": "Se connecter",
+    "register": "Créer un compte"
+  },
+  "auth": {
+    "loginTitle": "Heureux de vous revoir.",
+    "loginBody": "Utilisez vos identifiants pour accéder à l’espace sécurisé.",
+    "registerTitle": "Créez votre identité.",
+    "password": "Mot de passe",
+    "identifier": "E-mail ou nom d’utilisateur",
+    "login": "Connexion sécurisée",
+    "register": "Créer un compte sécurisé"
+  },
+  "dashboard": {
+    "title": "Heureux de vous voir, {name}."
+  },
+  "common": {
+    "save": "Save changes"
+  }
+}

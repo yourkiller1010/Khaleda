@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "dashboard": "ڈیش بورڈ",
+    "hub": "ہب",
+    "chat": "کمیونٹی",
+    "rewards": "انعامات",
+    "wallet": "والٹ",
+    "pricing": "رکنیت",
+    "referrals": "ریفرل",
+    "tickets": "معاونت",
+    "profile": "پروفائل",
+    "admin": "انتظام",
+    "login": "سائن ان",
+    "register": "اکاؤنٹ بنائیں"
+  },
+  "auth": {
+    "loginTitle": "واپسی پر خوش آمدید۔",
+    "loginBody": "محفوظ ورک اسپیس میں داخل ہونے کے لیے اپنی KillByte تفصیلات استعمال کریں۔",
+    "registerTitle": "اپنی شناخت بنائیں۔",
+    "password": "پاس ورڈ",
+    "identifier": "ای میل یا صارف نام",
+    "login": "محفوظ سائن ان",
+    "register": "محفوظ اکاؤنٹ بنائیں"
+  },
+  "dashboard": {
+    "title": "آپ کو دیکھ کر خوشی ہوئی، {name}۔"
+  },
+  "common": {
+    "save": "Save changes"
+  }
+}

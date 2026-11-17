@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "dashboard": "Dasbor",
+    "hub": "Hub",
+    "chat": "Komunitas",
+    "rewards": "Hadiah",
+    "wallet": "Dompet",
+    "pricing": "Keanggotaan",
+    "referrals": "Rujukan",
+    "tickets": "Dukungan",
+    "profile": "Profil",
+    "admin": "Administrasi",
+    "login": "Masuk",
+    "register": "Buat akun"
+  },
+  "auth": {
+    "loginTitle": "Selamat datang kembali.",
+    "loginBody": "Gunakan kredensial Anda untuk memasuki ruang kerja aman.",
+    "registerTitle": "Buat identitas Anda.",
+    "password": "Kata sandi",
+    "identifier": "Email atau nama pengguna",
+    "login": "Masuk dengan aman",
+    "register": "Buat akun aman"
+  },
+  "dashboard": {
+    "title": "Senang melihat Anda, {name}."
+  },
+  "common": {
+    "save": "Save changes"
+  }
+}
